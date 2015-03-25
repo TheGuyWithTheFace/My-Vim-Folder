@@ -21,7 +21,7 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'jistr/vim-nerdtree-tabs'
 
 " Syntax highlighting
-Plugin 'scrooloss/syntastic'
+Plugin 'scrooloose/syntastic'
 
 " Tags
 Plugin 'xolox/vim-misc'
